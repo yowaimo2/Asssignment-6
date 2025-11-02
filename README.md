@@ -1,2 +1,2 @@
-# Asssignment-6
+# Assignment-6
 There is a source code of assignment 6 (c++)
