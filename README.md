@@ -1,2 +1,2 @@
 # Asssignment-6
-C++ 
+There is a source code of assignment 6 (c++)
